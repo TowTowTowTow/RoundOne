@@ -1,5 +1,5 @@
 # RoundOne
 Text Game
 In plazma.py, 
-  everything is defined functions. 
-    on the final line tree() is called.
+  Everything is defined functions. 
+    On the final line tree() is called.
