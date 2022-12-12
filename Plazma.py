@@ -1,5 +1,6 @@
 from sys import exit
 
+print("Jo sucks")
 
 def sky_start():
     print("""\n\n\tYour leap of faith makes as much sense as anything else considering the circumstances.
